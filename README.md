@@ -3,11 +3,8 @@
 #### Carlos Andrés Ramírez Torres
 #### IETI 
 
-# Despliegue
+# Evidencia
 
-* FireBase
-
-https://taks-392bd.firebaseapp.com/
 
 
 
