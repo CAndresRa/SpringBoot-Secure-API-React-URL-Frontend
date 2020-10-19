@@ -5,12 +5,6 @@
 
 # Evidencia
 
-
-# Autor
-
-#### Carlos Andrés Ramírez Torres
-#### IETI 
-
 ![](https://github.com/CAndresRa/Spring-Boot-Secure-API-React-URL-Backend/blob/master/LABLABLAB.gif)
 
 En el Gif mostrado anteriormente se muestra que ambos proyectos se ejecutan desde localhost donde se muestra que si el usuario no se ha autenticado por medio de una peticion al backend desde la pagina de login si intenta acceder a una url no permitida lo devolvera inmediatamente al login, despues se muestra que un usuario debidamente autenticado puede ingresar a todos los servicios de la aplicación y por ultimo, una vez cierra la sesion lo podra acceder desde el navegador a las paginas correspondientes nuevamente.
